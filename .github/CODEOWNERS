@@ -12,4 +12,6 @@
 #  https://help.github.com/en/articles/about-code-owners
 #
 
-* @damemi @MrAlias
+* @open-telemetry/go-approvers @open-telemetry/go-instrumentation-approvers @open-telemetry/collector-approvers @open-telemetry/collector-contrib-approvers
+
+CODEOWNERS @open-telemetry/go-maintainers @open-telemetry/go-instrumentation-maintainers @open-telemetry/collector-maintainers @open-telemetry/collector-contrib-maintainers
